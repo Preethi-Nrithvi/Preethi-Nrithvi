@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Preethi 👋
 
-<!--
-**Preethi-Nrithvi/Preethi-Nrithvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+💻 Learning Python, C++  
+🚀 Interested in Open Source & Development  
 
-Here are some ideas to get you started:
+## Skills
+- Python 
+- C++ & C
+- SQL
+- HTML
+- Problem Solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- AI and Data Science(beginner)
+- web dev
+- css and js
+
+## Goals
+- Contribute to Open Source 
+- Build real-world projects
+- Improve coding skills
