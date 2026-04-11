@@ -1,8 +1,8 @@
 # Hi, I'm Preethi 👋
 
-🎓 Computer Science Student  
-💻 Learning Python, C++  
-🚀 Interested in Open Source & Development  
+Computer Science Student  
+Learning python,web dev and data science  
+Interested in Open Source & Development  
 
 ## Skills
 - Python 
