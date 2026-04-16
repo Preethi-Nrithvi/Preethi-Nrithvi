@@ -1,6 +1,6 @@
 # Hi, I'm Preethi 👋
 
-Computer Science Student  
+1st year Computer Science Student  
 Learning python,web dev and data science  
 Interested in Open Source & Development  
 
