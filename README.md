@@ -6,7 +6,7 @@ Interested in Open Source & Development
 
 ## Skills
 - Python 
-- C++ & C
+- C++
 - SQL
 - HTML
 - Problem Solving
