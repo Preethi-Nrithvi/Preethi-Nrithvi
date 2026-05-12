@@ -13,7 +13,7 @@ Interested in Open Source & Development
 
 ## Currently Learning
 - AI and Data Science(beginner)
-- web dev
+- web devlopment
 - css and js
 
 ## Goals
